@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
-# findshell v1.5 base code taken from traps.darkmindz.com modified  Marek (katakumby1996 gmail.com)
+# findshell v1.5 base code taken from traps.darkmindz.com modified &  Marek (katakumby1996 gmail.com)
 #usage: ./scanner.pl <sensitivity 1-50> <directory to scan>
 use strict;
 use File::Find;
